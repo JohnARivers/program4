@@ -1,0 +1,17 @@
+Error Documentation
+John Rivers
+Program 4 / junit
+
+File: Circle.java
+Line 46: yOffset needs to be used instead of xOffset
+Found Using Test Case: simpleMove and simpleMoveNegative
+
+Line 33: radius needs to equal radius * factor
+Found Using Test Case: simpleScale
+
+
+File: Circle2.java
+Line 8: x and y parameters erroneously swapped
+Found Using Test Case: simpleMove and simpleMoveNegative
+
+
